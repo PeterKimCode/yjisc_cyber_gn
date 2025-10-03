@@ -138,6 +138,7 @@ img {
 .logo__text {
     white-space: nowrap;
     letter-spacing: 0.35em;
+    color: #000000;
 }
 
 @media (max-width: 900px) {
